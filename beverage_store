@@ -1,0 +1,8 @@
+#include "beverage_store.h"
+
+BeverageStore::BeverageStore() {}
+
+//TODO: Print "Dear {get_name}, please enjoy your free beverage竊�".
+void BeverageStore::enjoy_free_beverage(const RegularCard& mem) const {
+}
+
